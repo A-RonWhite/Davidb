@@ -1,0 +1,15 @@
+User-agent: *
+Disallow: /clientpreviews/
+Disallow: /cgi-bin/
+Disallow: /Attic/
+Disallow: /email/
+Disallow: /post/
+Disallow: /testing/
+Disallow: /testing2/
+Disallow: /testing3/
+Disallow: /stats/
+Disallow: /re-plugin/
+Disallow: /ai-cache/
+Disallow: /.Archived/
+Disallow: /portfolio1.html
+Disallow: /portfolio2.html
